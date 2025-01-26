@@ -1,2 +1,23 @@
-venv/
+# Ignorar arquivos de ambiente
 .env
+
+# Ignorar arquivos gerados
+downloads/
+output/
+
+# Ignorar arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar arquivos do Docker
+docker-compose.override.yml
