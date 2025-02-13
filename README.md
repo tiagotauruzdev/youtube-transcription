@@ -103,5 +103,5 @@ MIT License
 
 ## Contato
 Para suporte ou dúvidas, entre em contato:
-- Email: suporte@youtube-transcription.com
-- Issues: https://github.com/seu-usuario/youtube-transcription/issues
+- Email: tiagotauruz.dev@gmail.com
+- Issues: https://github.com/tiagotauruzdev/youtube-transcription/issues
